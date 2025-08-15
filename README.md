@@ -1,5 +1,5 @@
 # Movie Recommender System
----
+
 A personalized movie recommendation engine built using KNN-based collaborative filtering in Python. This project predicts and recommends movies to users based on similarity between their watched/rated movies and others’ preferences.
 ---
 ## Features
@@ -10,7 +10,7 @@ A personalized movie recommendation engine built using KNN-based collaborative f
 - **Multiple Dataset Integration** — uses ratings, movies metadata.  
 - **Data Preprocessing** — handles missing values, encodes categorical features, and optimizes for recommendation speed.  
 ---
-**Files Used:**
+## Files Used:
 - `movies.csv` — Movie IDs, titles, genres  
 - `ratings.csv` — User IDs, movie IDs, ratings, timestamps  
 ---
